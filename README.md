@@ -39,4 +39,4 @@ Available tasks:
 
 ## License
 
-Code is distributed under [The Unlicense](https://github.com/nausicaan/free/blob/main/LICENSE.md) and is part of the Public Domain.
+Code is distributed under [The Unlicense](https://github.com/farghul/googlebot/blob/main/LICENSE.md) and is part of the Public Domain.
