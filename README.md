@@ -6,7 +6,7 @@ Googlebot Finder downloads, unzips, filters, and analyzes log files to highlight
 
 ## Prerequisites
 
-Variables declared in a tasks/vars.rs file:
+Variables declared in a `tasks/vars.rs` file:
 
 - SERVERS: Array of applicable servers.
 - IDENTITY: SSH credentials plus folder path ( ex. username@server:/folder/ ).
@@ -17,13 +17,13 @@ Variables declared in a tasks/vars.rs file:
 
 Navigate to the folder containing your *src* folder and run:
 
-``` console
+``` zsh
 ./googlebot [task] [month]
 ```
 
 ## Example
 
-``` console
+``` zsh
 ./googlebot filter july
 ```
 
